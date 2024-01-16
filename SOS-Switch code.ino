@@ -1,3 +1,5 @@
+// This code only works for XIAO model - XIAO RP2040 Microcontroller
+
 #include "WiFi.h"
 
 #define SOS D3
